@@ -1,2 +1,2 @@
-# Veri-Yap-lar-ve-Algoritmalar
+# Veri-Yapilari-ve-Algoritmalar
 Projeler  https://www.patika.dev/tr
